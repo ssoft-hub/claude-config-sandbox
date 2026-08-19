@@ -1,0 +1,1 @@
+A file a scratch branch can change so that a merge produces a commit with two parents.
