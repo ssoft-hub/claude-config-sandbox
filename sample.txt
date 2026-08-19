@@ -1,2 +1,2 @@
 A file a scratch branch can change so that a merge produces a commit with two parents.
-Second line, rewritten for the linear-history run.
+Second line, rewritten for the enforced linear-history run.
