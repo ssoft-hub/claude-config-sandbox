@@ -1,2 +1,2 @@
 A file a scratch branch can change so that a merge produces a commit with two parents.
-Second line of the sample file, so a scratch branch has something to change.
+Second line, rewritten on the stack base.
