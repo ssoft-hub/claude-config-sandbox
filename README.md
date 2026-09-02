@@ -8,3 +8,4 @@ probe 3
 probe a
 probe a2
 probe c
+probe d
