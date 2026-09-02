@@ -6,4 +6,4 @@ worktree probe
 probe 2
 probe 3
 probe a
-probe b
+probe a2
